@@ -26,6 +26,7 @@ import about04 from '../assets/about04.png';
 import profile from '../assets/sherry.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/portfolio-logo.jpeg';
+import solidity from '../assets/pngwing.com.png';
 
 import adidas from '../assets/adidas.png';
 import amazon from '../assets/amazon.png';
@@ -36,6 +37,7 @@ import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 
 export default {
+  solidity,
   email,
   mobile,
   api,
